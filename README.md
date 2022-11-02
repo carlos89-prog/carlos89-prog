@@ -5,7 +5,7 @@
 -    I’m interested in technology and sports 
 -    I’m currently learning react ,and javascript , i did some different
      courses at some platform about Java , SpringBoot and mySql , Also i'm Studying software Engineer at UADE
-     I’m looking to collaborate and work for a company and add value to add value from my enthusiasm, passion and knowledge
+     I’m looking to collaborate and work for a company to add value from my enthusiasm, passion and knowledge.
 
 skills: Java,poo,uml,Maven, SpringBoot, mySql, Jpa,Jdbc, hibernate, 
         javascript, html , css
